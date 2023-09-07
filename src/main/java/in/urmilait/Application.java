@@ -9,7 +9,9 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		
-		System.out.println("main method started");
+		System.out.println("main method started 1");
+		System.out.println("main method started 2");
+		System.out.println("main method started 3");
 	}
 
 }
